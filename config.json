@@ -1,0 +1,24 @@
+{
+    "ownerNumber": ["6287869456991@s.whatsapp.net", "6282126688740@s.whatsapp.net"],
+    "ownerName": "devn",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "AsunaBot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "AsunaBot",
+    "sesidInsta": "default",
+    "sessionName": "devn",
+    "txtDonasi": "GOPAY : Pc owner!\nPulsa : Pc owner!",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
